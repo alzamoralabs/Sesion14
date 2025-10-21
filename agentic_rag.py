@@ -1,4 +1,4 @@
-### main.py ### UTEC - Sesion 13 - AgenticRAG
+### main.py ###
 # por Boris Alzamora - 2025
 
 from dotenv import load_dotenv # carga variables de entorno desde un archivo .env

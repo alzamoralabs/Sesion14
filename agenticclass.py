@@ -1,4 +1,4 @@
-### agenticclass.py ### UTEC - Sesion 13 - AgenticRAG
+### agenticclass.py ###
 # por Boris Alzamora - 2025
 
 from dotenv import load_dotenv

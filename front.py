@@ -1,3 +1,5 @@
+## WebUI con Streamlit
+# por Boris Alzamora
 import streamlit as st
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
